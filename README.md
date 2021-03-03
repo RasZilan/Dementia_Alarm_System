@@ -36,32 +36,33 @@ https://www.amazon.co.uk/gp/product/B08GKQMC72/ref=ppx_yo_dt_b_asin_title_o02_s0
 Steps Involved
 
 
-Setting UP Raspberry PI Memory Card
+Step 1 - Setting UP Raspberry PI Memory Card
 
-Setting UP Raspberry PI With IO Hat
+Step 2 - Setting UP Raspberry PI With IO Hat
 
-Setting UP Raspberry PI Initial Software Setup
+Step 3 - Setting UP Raspberry PI Initial Software Setup
 
-Setting UP Raspberry PI With Static IP Address
+Step 4 - Setting UP Raspberry PI With Static IP Address
 
-Setting UP Raspberry PI Node-Red Install
+Step 5 - Setting UP Raspberry PI Node-Red Install
 
-Setting UP Raspberry PI Node-Red Plugins Import
+Step 6 - Setting UP Raspberry PI Node-Red Plugins Import
 
-Setting UP Raspberry PI Node-Red Flow Import & Other Files
+Step 7 - Setting UP Raspberry PI Node-Red Flow Import & Other Files
 
-Setting UP Raspberry PI Node-Red Nexmo
+Step 8 - Setting UP Raspberry PI Node-Red Nexmo
 
-Setting UP Raspberry PI Wiring and Switches
+Step 9 - Setting UP Raspberry PI Wiring and Switches
 
-Setting UP Raspberry PI Pull Chord Testing
+Step 10 - Setting UP Raspberry PI Pull Chord Testing
 
-Setting UP Raspberry PI Node-Red Fall Sensor Hardware
+Step 11 - Setting UP Raspberry PI Node-Red Fall Sensor Hardware
 
-Setting UP Raspberry PI Node-Red Fall Sensor Arduino Software
+Step 12 - Setting UP Raspberry PI Node-Red Fall Sensor Arduino Software
 
-Setting UP Raspberry PI Node-Red Fall Sensor Testing
+Step 13 - Setting UP Raspberry PI Node-Red Fall Sensor Testing
 
-Future additions
+Step 14 - Future additions
 
-Packaging
+Step 15 - Packaging
+
