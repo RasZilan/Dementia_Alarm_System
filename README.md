@@ -2,20 +2,33 @@
 
 I created a dementia security system for my mum...
 
+
 The system
 
+
 Alert Pull Chords
+
 Fall Sensor
+
 Potential for Bed Pressure pad sensor
+
 Potential for PIR Motion sensors
+
+
 The System had the following ways of alerting you to change in situation:
 
+
 Tablet mounted on a wall (buttons change colour to show status of various alarm triggers)
+
 SMS (text messages) relating where the issue has occurred.(Using node-red-contrib-nexmo)
+
 Phone Calls relating where the issue has occurred.(Using node-red-contrib-nexmo)
+
 Audible alarms possible.....
 
+
 Components
+
 
 sb components Raspberry Pi 4 Model B 2GB 2019 model ARM-Cortex-A72 4x 1,50GHz, WLAN-ac, Bluetooth 5, LAN, 4x USB, 2x Micro-HDMI Type C
 
