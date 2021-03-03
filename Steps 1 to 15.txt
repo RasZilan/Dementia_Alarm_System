@@ -1,0 +1,15 @@
+Step 1 - Setting UP Raspberry PI Memory Card
+Step 2 - Setting UP Raspberry PI With IO Hat
+Step 3 - Setting UP Raspberry PI Initial Software Setup
+Step 4 - Setting UP Raspberry PI With Static IP Address
+Step 5 - Setting UP Raspberry PI Node-Red Install
+Step 6 - Setting UP Raspberry PI Node-Red Plugins Import
+Step 7 - Setting UP Raspberry PI Node-Red Flow Import & Other Files
+Step 8 - Setting UP Raspberry PI Node-Red Nexmo
+Step 9 - Setting UP Raspberry PI Wiring and Switches
+Step 10 - Setting UP Raspberry PI Pull Chord Testing
+Step 11 - Setting UP Raspberry PI Node-Red Fall Sensor Hardware
+Step 12 - Setting UP Raspberry PI Node-Red Fall Sensor Arduino Software
+Step 13 - Setting UP Raspberry PI Node-Red Fall Sensor Testing
+Step 14 - Future additions
+Step 15 - Packaging
